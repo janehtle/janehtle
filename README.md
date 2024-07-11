@@ -1,0 +1,6 @@
+- 👋 Hi, I'm Jane!
+- 👀 I’m interested in becoming a FullStack Dev and finding career opportunities in gaming and tech. I also enjoy working on fun projects to better practice my coding skills and knowledge!
+- 🌱 I’m currently learning JavaScript after completing lessons in HTML and CSS. 
+- 📫 Let's connect on LinkedIn! Link is available on my profile. 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I survived getting my arm bitten by an alligator during my time as an animal caretaker 😃
